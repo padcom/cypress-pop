@@ -1,6 +1,6 @@
 {
   "name": "@padcom/cypress-pop",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cypress PageObjects Pattern",
   "author": "Matthias Hryniszak <padcom@gmail.com>",
   "license": "Apache-2.0",
