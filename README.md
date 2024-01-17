@@ -15,3 +15,9 @@ npm create from-github padcom/cypress example
 ```
 
 In there you will find a test that exercises the https://www.duckduckgo.com site. It does so by defining a page, a few components and one search scenario. It's the best place to get started.
+
+For convenience there is also a library template if you want to create reusable packages that can be used in many different projects:
+
+```
+npm create from-github padcom/cypress-lib example-lib
+```
